@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bomberman.bomberman.control.ScreenBController">
+    <children>
+        <Canvas fx:id="canvas" focusTraversable="true" height="540.0" layoutY="60.0" width="720.0" />
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <Image url="@img/Walls/NormalWall.png" />
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="60.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="120.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="180.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="240.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="300.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="360.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="420.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="480.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="120.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="180.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="240.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="300.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="360.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="420.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="480.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="540.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="600.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="60.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="120.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="180.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="240.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="420.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="480.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="540.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="600.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="120.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="180.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="240.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="300.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="360.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="480.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="80.0" layoutX="660.0" layoutY="420.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/Walls/NormalWall.png" />
+            </image>
+        </ImageView>
+      <Canvas fx:id="headerCanvas" height="60.0" width="720.0" />
+        <ImageView fitHeight="60.0" fitWidth="401.0" layoutX="270.0" layoutY="11.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/titleretro.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="60.0" fitWidth="115.0" layoutX="308.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/btnIcons/powerUp2.gif" />
+            </image></ImageView>
+        <ImageView fitHeight="60.0" fitWidth="115.0" layoutX="363.0" layoutY="540.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/btnIcons/powerUp2.gif" />
+            </image>
+        </ImageView>
+
+    </children>
+</AnchorPane>
